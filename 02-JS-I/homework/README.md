@@ -8,9 +8,9 @@
 
  * Variables: Guardar algo en un lugar, donde luego lo pueda recupar o volver a encontrar
  * Strings: Cadena de letras o numero que van siempre entre comillas (" ")
- * Funciones (argumentos, `return`): Conjuntos de codigos que van a ser usados muchas veces.
- * Declaraciones `if`: Sinonimos de condicion. Ej: Si (if) el perro come se llena.
- * Valores booleanos (`true`, `false`) : Son valores que unicamente pueden ser verdaderos o falsos
+ * Funciones (argumentos, `return`):
+ * Declaraciones `if`:
+ * Valores booleanos (`true`, `false`) :
 
 2. Instalar Node y NPM. NPM se incluye con Node. <https://nodejs.org/en/download/>
 
